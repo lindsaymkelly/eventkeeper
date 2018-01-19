@@ -1,24 +1,5 @@
-# README
+# Event Keeper
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An application built to help plan and schedule for my partner and I. A continual work in progress. Hopefully a beta will be ready by Valentine's Day...
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
